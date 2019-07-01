@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="nl.NPO 1 HD" tvg-name="NPO 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nederland1_hd.jpg" group-title="Nederlands",NPO 1
+http://nuraghi.ddns.net:8000/live/Daily/Daily/1.ts
+#EXTINF:-1 tvg-ID="nl.NPO 2 HD" tvg-name="NPO 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nederland2_hd.jpg" group-title="Nederlands",NPO 2
+http://nuraghi.ddns.net:8000/live/Daily/Daily/2.ts
+#EXTINF:-1 tvg-ID="nl.NPO 3 HD" tvg-name="NPO 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nederland3_hd.jpg" group-title="Nederlands",NPO 3
+http://nuraghi.ddns.net:8000/live/Daily/Daily/3.ts
+#EXTINF:-1 tvg-ID="nl.RTL 4 HD" tvg-name="RTL 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl4_nl.jpg" group-title="Nederlands",RTL 4
+http://nuraghi.ddns.net:8000/live/Daily/Daily/4.ts
+#EXTINF:-1 tvg-ID="nl.RTL 5 HD" tvg-name="RTL 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl5.jpg" group-title="Nederlands",RTL 5
+http://nuraghi.ddns.net:8000/live/Daily/Daily/5.ts
+#EXTINF:-1 tvg-ID="nl.SBS6 HD" tvg-name="SBS 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sbs6.jpg" group-title="Nederlands",SBS 6
+http://nuraghi.ddns.net:8000/live/Daily/Daily/6.ts
+#EXTINF:-1 tvg-ID="nl.RTL 7 HD" tvg-name="RTL 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl7.jpg" group-title="Nederlands",RTL 7
+http://nuraghi.ddns.net:8000/live/Daily/Daily/7.ts
+#EXTINF:-1 tvg-ID="nl.Veronica HD / Disney XD" tvg-name="Veronica /Disney XD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/veronica.jpg" group-title="Nederlands",Veronica /Disney XD
+http://nuraghi.ddns.net:8000/live/Daily/Daily/11.ts
+#EXTINF:-1 tvg-ID="nl.Net5 HD" tvg-name="Net5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Net5_FB.png" group-title="Nederlands",Net5
+http://nuraghi.ddns.net:8000/live/Daily/Daily/12.ts
+#EXTINF:-1 tvg-ID="nl.RTL 8 HD" tvg-name="RTL 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl8.jpg" group-title="Nederlands",RTL 8
+http://nuraghi.ddns.net:8000/live/Daily/Daily/8.ts
+#EXTINF:-1 tvg-ID="nl.FOX HD" tvg-name="FOX" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_nl.jpg" group-title="Nederlands",FOX
+http://nuraghi.ddns.net:8000/live/Daily/Daily/13.ts
+#EXTINF:-1 tvg-ID="nl.RTL Z HD" tvg-name="RTL Z" tvg-logo="https://i.ibb.co/VH03Kj8/000000000000.png" group-title="Nederlands",RTL Z
+http://nuraghi.ddns.net:8000/live/Daily/Daily/10.ts
+#EXTINF:-1 tvg-ID="NL: Comedy Central HD" tvg-name="Comedy Central" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_uk.jpg" group-title="Nederlands",Comedy Central
+http://nuraghi.ddns.net:8000/live/Daily/Daily/50.ts
+#EXTINF:-1 tvg-ID="NL: Discovery HD" tvg-name="Discovery Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_benelux.jpg" group-title="Nederlands",Discovery Channel
+http://nuraghi.ddns.net:8000/live/Daily/Daily/22.ts
+#EXTINF:-1 tvg-ID="NL: National Geographic HD" tvg-name="National Geographic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_eur_hd.jpg" group-title="Nederlands",National Geographic
+http://nuraghi.ddns.net:8000/live/Daily/Daily/28.ts
+#EXTINF:-1 tvg-ID="nl.SBS9 HD" tvg-name="SBS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SBS_9_logo.jpg" group-title="Nederlands",SBS 9
+http://nuraghi.ddns.net:8000/live/Daily/Daily/9.ts
+#EXTINF:-1 tvg-ID="NL: Eurosport HD" tvg-name="Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="Nederlands",Eurosport 1
+http://nuraghi.ddns.net:8000/live/Daily/Daily/34.ts
+#EXTINF:-1 tvg-ID="nl.Eurosport 2 HD" tvg-name="Eurosport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2.jpg" group-title="Nederlands",Eurosport 2
+http://nuraghi.ddns.net:8000/live/Daily/Daily/35.ts
+#EXTINF:-1 tvg-ID="nl.TLC HD" tvg-name="TLC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" group-title="Nederlands",TLC
+http://nuraghi.ddns.net:8000/live/Daily/Daily/14.ts
+#EXTINF:-1 tvg-ID="nl.MTV HD" tvg-name="MTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/MTV_HD_%282015-%29.png/revision/latest?cb=20151111052147" group-title="Nederlands",MTV
+http://nuraghi.ddns.net:8000/live/Daily/Daily/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Brand New" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv.jpg" group-title="Nederlands",MTV Brand New
+http://nuraghi.ddns.net:8000/live/Daily/Daily/62.ts
+#EXTINF:-1 tvg-ID="nl.24Kitchen HD" tvg-name="24 Kitchen" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/24_kitchen.jpg" group-title="Nederlands",24 Kitchen
+http://nuraghi.ddns.net:8000/live/Daily/Daily/20.ts
+#EXTINF:-1 tvg-ID="nl.XITE" tvg-name="Xite" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/xite_nl.jpg" group-title="Nederlands",Xite
+http://nuraghi.ddns.net:8000/live/Daily/Daily/60.ts
+#EXTINF:-1 tvg-ID="NL: Viceland HD" tvg-name="Viceland" tvg-logo="https://image.roku.com/channels/images/3d6760e37f7249e88817b078b60ae065-hd.png" group-title="Nederlands",Viceland
+http://nuraghi.ddns.net:8000/live/Daily/Daily/59.ts
+#EXTINF:-1 tvg-ID="NL: Disney Channel HD" tvg-name="Disney Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_middle_east.jpg" group-title="Nederlands",Disney Channel
+http://nuraghi.ddns.net:8000/live/Daily/Daily/53.ts
+#EXTINF:-1 tvg-ID="NL: History HD DUT NL" tvg-name="History" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_hd.jpg" group-title="Nederlands",History
+http://nuraghi.ddns.net:8000/live/Daily/Daily/27.ts
+#EXTINF:-1 tvg-ID="nl.Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="Nederlands",Nickelodeon
+http://nuraghi.ddns.net:8000/live/Daily/Daily/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV West" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv_west.jpg" group-title="Nederlands",TV West
+http://nuraghi.ddns.net:8000/live/Daily/Daily/19.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Premiere HD" tvg-name="Film1 Première" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/film1_premiere_hd.jpg" group-title="Nederlands",Film1 Première
+http://nuraghi.ddns.net:8000/live/Daily/Daily/33.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Action HD" tvg-name="Film1 Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/film1_action_hd.jpg" group-title="Nederlands",Film1 Action
+http://nuraghi.ddns.net:8000/live/Daily/Daily/30.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Family HD" tvg-name="Film1 Family" tvg-logo="https://i.ibb.co/xHnQSnt/000-D0-D00-D.png" group-title="Nederlands",Film1 Family
+http://nuraghi.ddns.net:8000/live/Daily/Daily/32.ts
+#EXTINF:-1 tvg-ID="NL: Film 1 Drama HD" tvg-name="Film1 Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Film1_Series.jpg/220px-Film1_Series.jpg" group-title="Nederlands",Film1 Drama
+http://nuraghi.ddns.net:8000/live/Daily/Daily/31.ts
+#EXTINF:-1 tvg-ID="nl.RTL Crime" tvg-name="RTL Crime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_crime_de.jpg" group-title="Nederlands",RTL Crime
+http://nuraghi.ddns.net:8000/live/Daily/Daily/15.ts
+#EXTINF:-1 tvg-ID="nl.CI" tvg-name="Crime & Investigation" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/crime_investigation_network_uk_hd.jpg" group-title="Nederlands",Crime & Investigation
+http://nuraghi.ddns.net:8000/live/Daily/Daily/58.ts
+#EXTINF:-1 tvg-ID="nl.ID HD" tvg-name="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ID_Investigation_Discovery.png/205px-ID_Investigation_Discovery.png" group-title="Nederlands",Discovery ID
+http://nuraghi.ddns.net:8000/live/Daily/Daily/23.ts
+#EXTINF:-1 tvg-ID="nl.Comedy Central Extra" tvg-name="Comedy Central Extra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_extra_central_eu.jpg" group-title="Nederlands",Comedy Central Extra
+http://nuraghi.ddns.net:8000/live/Daily/Daily/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_uk.jpg" group-title="Nederlands",E Entertainment
+http://nuraghi.ddns.net:8000/live/Daily/Daily/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Out TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/out_tv_ca.jpg" group-title="Nederlands",Out TV
+http://nuraghi.ddns.net:8000/live/Daily/Daily/18.ts
+#EXTINF:-1 tvg-ID="nl.RTL Lounge" tvg-name="RTL Lounge" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_lounge.jpg" group-title="Nederlands",RTL Lounge
+http://nuraghi.ddns.net:8000/live/Daily/Daily/16.ts
+#EXTINF:-1 tvg-ID="nl.Discovery Science" tvg-name="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="Nederlands",Discovery Science
+http://nuraghi.ddns.net:8000/live/Daily/Daily/24.ts
+#EXTINF:-1 tvg-ID="nl.Discovery World" tvg-name="Discovery World" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_world.jpg" group-title="Nederlands",Discovery World
+http://nuraghi.ddns.net:8000/live/Daily/Daily/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Showcase" tvg-logo="http://www.logotypes101.com/logos/465/27D97A375263293394AB6EA1039BC1F1/discoveryhdshowcase.png" group-title="Nederlands",Discovery Showcase
+http://nuraghi.ddns.net:8000/live/Daily/Daily/25.ts
+#EXTINF:-1 tvg-ID="NL: Animal Planet HD" tvg-name="Animal Planet" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animal_planet_nl.jpg" group-title="Nederlands",Animal Planet
+http://nuraghi.ddns.net:8000/live/Daily/Daily/21.ts
+#EXTINF:-1 tvg-ID="nl.Nat Geo Wild HD" tvg-name="National Geographic Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_lam.jpg" group-title="Nederlands",National Geographic Wild
+http://nuraghi.ddns.net:8000/live/Daily/Daily/29.ts
+#EXTINF:-1 tvg-ID="nl.Nicktoons" tvg-name="Nick Toons" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_nl.jpg" group-title="Nederlands",Nick Toons
+http://nuraghi.ddns.net:8000/live/Daily/Daily/54.ts
+#EXTINF:-1 tvg-ID="nl.Nick Jr." tvg-name="Nick Junior" tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="Nederlands",Nick Junior
+http://nuraghi.ddns.net:8000/live/Daily/Daily/55.ts
+#EXTINF:-1 tvg-ID="nl.Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_us.jpg" group-title="Nederlands",Cartoon Network
+http://nuraghi.ddns.net:8000/live/Daily/Daily/52.ts
+#EXTINF:-1 tvg-ID="NL: RTL Telekids HD" tvg-name="RTL Telekids" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_at.jpg" group-title="Nederlands",RTL Telekids
+http://nuraghi.ddns.net:8000/live/Daily/Daily/17.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Select HD" tvg-name="Ziggo Sport Select" tvg-logo="https://pbs.twimg.com/profile_images/1009029925909692418/7nKDaqns_400x400.jpg" group-title="Nederlands",Ziggo Sport Select
+http://nuraghi.ddns.net:8000/live/Daily/Daily/44.ts
+#EXTINF:-1 tvg-ID="NL: Ziggo Sport Voetbal HD" tvg-name="Ziggo Sport Voetbal" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Voetbal
+http://nuraghi.ddns.net:8000/live/Daily/Daily/42.ts
+#EXTINF:-1 tvg-ID="NL: Ziggo Sport Golf HD" tvg-name="Ziggo Sport Golf" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Golf
+http://nuraghi.ddns.net:8000/live/Daily/Daily/46.ts
+#EXTINF:-1 tvg-ID="NL: Ziggo Sport Racing HD" tvg-name="Ziggo Sport Racing" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Racing
+http://nuraghi.ddns.net:8000/live/Daily/Daily/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ziggo Sport Docu" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Docu
+http://nuraghi.ddns.net:8000/live/Daily/Daily/43.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Extra1" tvg-name="Ziggo Sport Extra" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Extra
+http://nuraghi.ddns.net:8000/live/Daily/Daily/47.ts
+#EXTINF:-1 tvg-ID="nl.Ziggo Sport Extra2" tvg-name="Ziggo Sport Extra 2" tvg-logo="http://pbs.twimg.com/profile_images/926110129887633413/YIm5YF8v_reasonably_small.jpg" group-title="Nederlands",Ziggo Sport Extra 2
+http://nuraghi.ddns.net:8000/live/Daily/Daily/48.ts
+#EXTINF:-1 tvg-ID="NL: Fox Sports 1 HD" tvg-name="Fox Sports 1" tvg-logo="http://2.bp.blogspot.com/-eGdimZ-T92c/UhObgpLOcnI/AAAAAAAAPgY/_gyeOCi0Wvg/s1600/fox.jpeg" group-title="Nederlands",Fox Sports 1
+http://nuraghi.ddns.net:8000/live/Daily/Daily/36.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 2 HD" tvg-name="Fox Sports 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_nl_02.jpg" group-title="Nederlands",Fox Sports 2
+http://nuraghi.ddns.net:8000/live/Daily/Daily/37.ts
+#EXTINF:-1 tvg-ID="NL: Fox Sports 3 HD" tvg-name="Fox Sports 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports3_au.jpg" group-title="Nederlands",Fox Sports 3
+http://nuraghi.ddns.net:8000/live/Daily/Daily/38.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 4 HD" tvg-name="Fox Sports 4" tvg-logo="https://i.imgur.com/Twd9ggG.jpg?1" group-title="Nederlands",Fox Sports 4
+http://nuraghi.ddns.net:8000/live/Daily/Daily/39.ts
+#EXTINF:-1 tvg-ID="NL: Fox Sports 5 HD" tvg-name="Fox Sports 5" tvg-logo="https://sport-tv-guide.live/images/tv-station-nl-fox-sports-5-245.png" group-title="Nederlands",Fox Sports 5
+http://nuraghi.ddns.net:8000/live/Daily/Daily/40.ts
+#EXTINF:-1 tvg-ID="nl.FOX Sports 6 HD" tvg-name="Fox Sports 6" tvg-logo="http://zeeland.blog.nl/files/2014/08/fox-sports-6.jpg" group-title="Nederlands",Fox Sports 6
+http://nuraghi.ddns.net:8000/live/Daily/Daily/41.ts
+#EXTINF:-1 tvg-ID="nl.Extreme Sports Channel" tvg-name="Extreme Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/extreme_sports_nl.jpg" group-title="Nederlands",Extreme Sports
+http://nuraghi.ddns.net:8000/live/Daily/Daily/49.ts
